@@ -5,7 +5,7 @@
 
 ---
 
-  Where can you find me ? 🤔
+ 🌐 Connect With Me
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dfranceschetti) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@diogo.franceschetti)
@@ -14,12 +14,12 @@
 ---
 ⚙️ Techniques I Practice
 - Dimensional data modeling (Star/Snowflake schemas, fact & dimension tables)
--ETL/ELT & data quality with dbt tests, Airflow scheduling, n8n automations
--CI/CD pipelines using GitHub Actions & Docker‑based deployments
--Containerization & Infrastructure‑as‑Code for reproducible environments
--API integration & web scraping (REST, GraphQL, XML, CSV flat‑files)
--NLP & LLM applications with LangChain + OpenAI for text summarization/chatbots
--Interactive storytelling in Tableau, Superset, and Streamlit
+- ETL/ELT & data quality with dbt tests, Airflow scheduling, n8n automations
+- CI/CD pipelines using GitHub Actions & Docker-based deployments
+- Containerization & Infrastructure-as-Code for reproducible environments
+- API integration & web scraping (REST, GraphQL, XML, CSV flat-files)
+- NLP & LLM applications with LangChain + OpenAI for text summarization/chatbots
+- Interactive storytelling in Tableau, Superset, and Streamlit
 
   
 <!--
