@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Diogo - Welcome to my GitHub Profile ✅
 
-
+---
 
   ## 🚀 Data Analyst | SQL ≤ | Python 🐍| Visualization 📊
 
