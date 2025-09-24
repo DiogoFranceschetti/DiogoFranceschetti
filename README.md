@@ -1,4 +1,4 @@
-![Texto alternativo para a imagem](https://github.com/DiogoFranceschetti/DiogoFranceschetti/blob/main/workplace-analysis-setup-stockcake.jpg?raw=true)
+<img src="https://github.com/DiogoFranceschetti/DiogoFranceschetti/blob/main/workplace-analysis-setup-stockcake.jpg?raw=true" width="600">
 
 ## Hi there 👋 I'm Diogo - Welcome to my GitHub Profile ✅
  
