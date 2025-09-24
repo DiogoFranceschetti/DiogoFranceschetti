@@ -1,10 +1,10 @@
-<img src="https://github.com/DiogoFranceschetti/DiogoFranceschetti/blob/main/workplace-analysis-setup-stockcake.jpg?raw=true" width="600">
+<p align="center">
+  <img src="https://github.com/DiogoFranceschetti/DiogoFranceschetti/blob/main/workplace-analysis-setup-stockcake.jpg?raw=true" width="600" alt="Workplace Setup">
+  
+  ## Hi there 👋 I'm Diogo - Welcome to my GitHub Profile ✅
 
-## Hi there 👋 I'm Diogo - Welcome to my GitHub Profile ✅
- 
- 
   ## 🚀 Data Analyst | SQL ≤ | Python 🐍| Visualization 📊
-
+</p>
 ---
 
  🌐 Connect With Me
