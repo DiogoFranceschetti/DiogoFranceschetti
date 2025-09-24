@@ -1,3 +1,5 @@
+![Texto alternativo para a imagem](https://github.com/DiogoFranceschetti/DiogoFranceschetti/blob/main/workplace-analysis-setup-stockcake.jpg?raw=true)
+
 ## Hi there 👋 I'm Diogo - Welcome to my GitHub Profile ✅
  
  
