@@ -13,13 +13,13 @@
 
 ---
 ⚙️ Techniques I Practice
-- Dimensional data modeling (Star/Snowflake schemas, fact & dimension tables)
-- ETL/ELT & data quality with dbt tests, Airflow scheduling, n8n automations
-- CI/CD pipelines using GitHub Actions & Docker-based deployments
-- Containerization & Infrastructure-as-Code for reproducible environments
-- API integration & web scraping (REST, GraphQL, XML, CSV flat-files)
-- NLP & LLM applications with LangChain + OpenAI for text summarization/chatbots
-- Interactive storytelling in Tableau, Superset, and Streamlit
+- Data Extraction & Transformation: Using SQL to query databases (PostgreSQL, MySQL), and Python (Pandas) to clean and transform data.
+- Data Visualization & Reporting: Building interactive dashboards and reports in tools like Tableau, Power BI, or Looker Studio
+- Exploratory Data Analysis (EDA): Applying statistical methods and Python libraries (NumPy, Matplotlib) to discover patterns, anomalies, and relationships in datasets.
+- Database Management: Working with relational databases to design simple schemas, optimize queries, and ensure data integrity.
+- Advanced Analytics: Creating predictive models and performing statistical analysis using Python (Scikit-learn).
+- Communication & Storytelling: Presenting complex findings to non-technical stakeholders, translating data insights into actionable business strategies.
+- Automation: Automating data pipelines and routine tasks using scripts or simple ETL tools to improve workflow efficiency.
 
   
 <!--
